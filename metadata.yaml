@@ -1,0 +1,32 @@
+_repo: The-cave-dwellers-of-Southern-Tunisia-b-Recollections-of-a-sojourn-with-the-Khalifa-of-Matmat__71585
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: L. A. E. B.
+    gutenberg_agent_id: '56296'
+    url: http://www.gutenberg.org/2009/agents/56296
+creator:
+  author:
+    agent_name: Bruun, Daniel
+    gutenberg_agent_id: '56295'
+    url: http://www.gutenberg.org/2009/agents/56295
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71585'
+language: en
+pgterms:marc904: https://archive.org/details/cavedwellersofso00bruu
+pgterms:marc905: 20230823001746bruun
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bW. Thacker & Co., $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The cave dwellers of Southern Tunisia : $b Recollections of a sojourn with
+  the Khalifa of Matmata'
+url: http://www.gutenberg.org/ebooks/71585
