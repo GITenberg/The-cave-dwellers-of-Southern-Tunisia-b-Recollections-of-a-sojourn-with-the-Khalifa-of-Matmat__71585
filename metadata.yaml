@@ -5,12 +5,17 @@ contributor:
     agent_name: L. A. E. B.
     gutenberg_agent_id: '56296'
     url: http://www.gutenberg.org/2009/agents/56296
+covers:
+- cover_type: archival
+  image_path: 71585-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruun, Daniel
     gutenberg_agent_id: '56295'
     url: http://www.gutenberg.org/2009/agents/56295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71585#The-cave-dwellers-of-Southern-Tunisia-b-Recollections-of-a-sojourn-with-the-Khalifa-of-Matmat_
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71585'
